@@ -19,6 +19,7 @@ Optional performance improvements include:
 # Requirements
 
 Use pip to install the packages in `requirements.txt`
+
 pip3 install -r requirements.txt
 
 # Run backend
@@ -29,4 +30,3 @@ You can see the backend operations running from the API.
 # Run frontend
 
 In another terminal, run `python3 main.py`. This one is for the GUI.
-python3 main.py
